@@ -25,6 +25,3 @@ The script uses the `os` and `tkinter` libraries to interact with the file syste
 
 ## Contributing
 Contributions to the File List Creator are welcome. Please ensure to update tests as appropriate.
-
-## License
-MIT
